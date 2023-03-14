@@ -1,1 +1,0 @@
-("Column Section *", "TYPE_TAB_1", self.tab_supported_section)

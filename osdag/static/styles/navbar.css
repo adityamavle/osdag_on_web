@@ -1,17 +1,18 @@
+nav button {
+    font-family: 'ubuntu';
+    font-size: 15px;
+    padding: 5px;
+    height: calc(100% - 50px);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
 nav {
     display:grid;
     width: 20%;
-    height: 100% - 30px;
     margin: 20px;
     padding: 20px;
     background-color: #8fac3a;
     box-shadow: inset 5px 5px #0000006b;
+    height: calc(100vh - 80px);
 }
 
-nav button {
-    font-family: 'ubuntu';
-    margin-top: 20px;
-    font-size: 15px;
-    padding: 5px;
-    height: 30px
-}
